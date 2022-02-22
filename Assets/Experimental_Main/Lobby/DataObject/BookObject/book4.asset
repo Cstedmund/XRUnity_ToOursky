@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f43c538bcf99463f8a08ac6ab2bdee3, type: 3}
+  m_Name: book4
+  m_EditorClassIdentifier: 
+  bookID: 04
+  bookName: The trouble of water
+  bookNameCn: "\u6C34\u7684\u7169\u60F1"
+  sceneName: 
+  bookEnum: 3
+  chapterNumber: 4
+  mode: 
+  aRImageLibrary: {fileID: 11400000, guid: c6d31247550d66141b43433a9a8df29f, type: 2}

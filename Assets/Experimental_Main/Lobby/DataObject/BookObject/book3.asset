@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f43c538bcf99463f8a08ac6ab2bdee3, type: 3}
+  m_Name: book3
+  m_EditorClassIdentifier: 
+  bookID: 03
+  bookName: Food problems
+  bookNameCn: "\u7CE7\u98DF\u554F\u984C"
+  sceneName: GeogBook3
+  bookEnum: 2
+  chapterNumber: 3
+  mode: 0000000002000000
+  aRImageLibrary: {fileID: 11400000, guid: a28aedf01ccbc44d2bdcc198bbc08f82, type: 2}

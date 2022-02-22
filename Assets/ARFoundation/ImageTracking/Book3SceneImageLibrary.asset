@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: Book3SceneImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5437345960971088517
+  m_GuidHigh: 14657665943163515551
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5371873322803759059
+      m_GuidHigh: 8385020272618016940
+    m_SerializedTextureGuid:
+      m_GuidLow: 2638969141825991683
+      m_GuidHigh: 5615112417908304219
+    m_Size: {x: 0.1, y: 0.13119869}
+    m_SpecifySize: 1
+    m_Name: Cover2
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4791744319777439990
+      m_GuidHigh: 2994100175932507009
+    m_SerializedTextureGuid:
+      m_GuidLow: 1450188540408232687
+      m_GuidHigh: 33698402021539096
+    m_Size: {x: 0.1, y: 0.13119869}
+    m_SpecifySize: 1
+    m_Name: Cover4
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5126005112496975806
+      m_GuidHigh: 10398708984794777763
+    m_SerializedTextureGuid:
+      m_GuidLow: 10726518925093234278
+      m_GuidHigh: 7742471272759091161
+    m_Size: {x: 0.1, y: 0.13119869}
+    m_SpecifySize: 1
+    m_Name: Cover9
+    m_Texture: {fileID: 0}

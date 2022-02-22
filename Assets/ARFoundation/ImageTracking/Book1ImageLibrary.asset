@@ -1,0 +1,97 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: Book1ImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5542192892593020562
+  m_GuidHigh: 12327411352070662321
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5274608998502760572
+      m_GuidHigh: 7857322910283711640
+    m_SerializedTextureGuid:
+      m_GuidLow: 8121191339972474887
+      m_GuidHigh: 10119444389034245179
+    m_Size: {x: 0.1, y: 0.13120118}
+    m_SpecifySize: 1
+    m_Name: GeogCoverBook1e
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5340447062722342713
+      m_GuidHigh: 17479060735067677596
+    m_SerializedTextureGuid:
+      m_GuidLow: 7262967059970839439
+      m_GuidHigh: 17464955228814241512
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: image1
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5737801645692332819
+      m_GuidHigh: 2330693895328605082
+    m_SerializedTextureGuid:
+      m_GuidLow: 12975457196111992788
+      m_GuidHigh: 6686149675109956792
+    m_Size: {x: 0.1, y: 0.090833336}
+    m_SpecifySize: 1
+    m_Name: image2
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5071755030899364327
+      m_GuidHigh: 12318607686941279416
+    m_SerializedTextureGuid:
+      m_GuidLow: 7267079401047772519
+      m_GuidHigh: 6513714151119453145
+    m_Size: {x: 0.1, y: 0.055825245}
+    m_SpecifySize: 1
+    m_Name: image3
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4960734435124504045
+      m_GuidHigh: 18261515637088628107
+    m_SerializedTextureGuid:
+      m_GuidLow: 9514104569382908082
+      m_GuidHigh: 13478919205761263434
+    m_Size: {x: 0.1, y: 0.08132956}
+    m_SpecifySize: 1
+    m_Name: image4
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4934645805654620266
+      m_GuidHigh: 5437919646255557786
+    m_SerializedTextureGuid:
+      m_GuidLow: 8389704513416397868
+      m_GuidHigh: 7056766533964316984
+    m_Size: {x: 0.1, y: 0.075}
+    m_SpecifySize: 1
+    m_Name: image5
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4991728440975949875
+      m_GuidHigh: 12250913891099895720
+    m_SerializedTextureGuid:
+      m_GuidLow: 14194577642827986457
+      m_GuidHigh: 1429581388416504345
+    m_Size: {x: 0.1, y: 0.075}
+    m_SpecifySize: 1
+    m_Name: image6
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4900863615643823941
+      m_GuidHigh: 5453038478046662788
+    m_SerializedTextureGuid:
+      m_GuidLow: 12926694481432681386
+      m_GuidHigh: 2052094374863573017
+    m_Size: {x: 0.1, y: 0.06666667}
+    m_SpecifySize: 1
+    m_Name: image7
+    m_Texture: {fileID: 0}

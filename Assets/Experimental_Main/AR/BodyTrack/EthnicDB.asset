@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: adf0cd6105c1a42cc9089a7238e46b6d, type: 3}
+  m_Name: EthnicDB
+  m_EditorClassIdentifier: 
+  list:
+  - ethnicGroup: "\u7121"
+    gender: 
+    key: None
+    modelPrefab: {fileID: 0}
+    clothTexture: {fileID: 0}
+  - ethnicGroup: "\u548C\u670D"
+    gender: "\u5973"
+    key: 
+    modelPrefab: {fileID: 4256299802315915955, guid: d338c48627b75d04db8082e4a1c9b305,
+      type: 3}
+    clothTexture: {fileID: 0}
+  - ethnicGroup: "\u548C\u670D2"
+    gender: "\u5973"
+    key: 
+    modelPrefab: {fileID: 3013247222533889180, guid: 056994d0c7e3a44f3bd1ca4ac4bc15b5,
+      type: 3}
+    clothTexture: {fileID: 0}
