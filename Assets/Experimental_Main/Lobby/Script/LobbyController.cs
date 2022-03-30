@@ -58,29 +58,29 @@ public class LobbyController : MonoBehaviour {
     }
 
     //============================================================================
-    public void ExternalLoadScene(string levelIndexString) {
-        int levelindex;
-        bool isParsable = int.TryParse(levelIndexString, out levelindex);
-        if (isParsable) {
-            switch (levelindex) {
-                case 0:
-                    Debug.Log($"Load level index {levelindex}");
-                    SceneManager.LoadScene("GeogBook1");
-                    break;
-                case 1:
-                    Debug.Log($"Load level index {levelindex}");
-                    SceneManager.LoadScene("GeogBook2");
-                    break;
-                default:
-                    Debug.Log("No level index" + levelindex);
-                    break;
-            }
-        } else {
-            Debug.Log("Pass in parameter is not Int String");
-        }
-    }
+    //public void ExternalLoadScene(string levelIndexString) {
+    //    int levelindex;
+    //    bool isParsable = int.TryParse(levelIndexString, out levelindex);
+    //    if (isParsable) {
+    //        switch (levelindex) {
+    //            case 0:
+    //                Debug.Log($"Load level index {levelindex}");
+    //                SceneManager.LoadScene("GeogBook1");
+    //                break;
+    //            case 1:
+    //                Debug.Log($"Load level index {levelindex}");
+    //                SceneManager.LoadScene("GeogBook2");
+    //                break;
+    //            default:
+    //                Debug.Log("No level index" + levelindex);
+    //                break;
+    //        }
+    //    } else {
+    //        Debug.Log("Pass in parameter is not Int String");
+    //    }
+    //}
 
-    public void ExternalPassString(string message) {
-        print($"The message from xcode is: {message}");
-    }
+    //public void ExternalPassString(string message) {
+    //    print($"The message from xcode is: {message}");
+    //}
 }
